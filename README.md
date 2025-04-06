@@ -1,7 +1,7 @@
 # Hi, I'm Aditya 👋
 
 🌟 **Aspiring Backend Developer** | 🖥️ **Node.js Enthusiast**  
-🎓 **Masai School Graduate** | 🌍 **Based in Pune, India**
+🎓 **Masai School Student** | 🌍 **Live in MH, India**
 
 ---
 
