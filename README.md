@@ -31,18 +31,13 @@ Here are some tools and technologies I work with:
 
 ---
 
-
-- [**e-mail**](adityadixitp123@gmail.com)
-
----
-
 ## 🚀 About Me  
 I'm a passionate learner and developer with a keen interest in building efficient, scalable systems. My journey began at Masai School, where I honed my skills in Node.js and backend development, focusing on creating robust and performant applications. Now, I'm on the path to mastering my craft, eager to contribute to impactful projects and collaborate with amazing people.
 
+- [**e-mail**](adityadixitp123@gmail.com)
 - 🌱 **Currently Exploring:** Advanced Node.js concepts, Express, and MongoDB.
 - ⚡ **Fun Fact:** I love turning complex problems into simple solutions—it's like solving a puzzle!
 - 👨‍💻 **Favorite Quote:** "Code is like humor. When you have to explain it, it’s bad."
 
----
 ### 🧡 Thanks for stopping by!
 Let’s build something amazing together.
